@@ -1,0 +1,37 @@
+# Keil MDK
+*.uvguix.*
+*.uvoptx
+*.uvprojx.bak
+*.scvd
+JLinkLog.txt
+JLinkSettings.ini
+*.iex
+*.crf
+*.d
+*.o
+*.axf
+*.dep
+*.elf
+*.hex
+*.bin
+*.htm
+*.build_log.htm
+*.lnp
+*.lst
+*.map
+*.plg
+*.sct
+*.tmp
+
+# 编译输出目录
+DebugConfig/
+Listings/
+Objects/
+RTE/
+
+# VS Code
+.vscode/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
